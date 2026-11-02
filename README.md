@@ -1,4 +1,4 @@
-# 🌍 Guess the Flag — Global Culture Learning Game
+# 🌍 Guess the Flag
 
 ![Guess the Flag](assets/hero.svg)
 
@@ -161,6 +161,6 @@ Allen is interested in building technology-enhanced learning experiences that co
 
 ---
 
-### From assignment to portfolio project
+#### Project Background
 
-This repository began as **Assignment 4 – Digital Technologies Innovation**. It is now documented as an independent educational technology project so that the idea, learning design, implementation, visuals, demo, and future development direction are visible beyond the original academic context.
+Originally developed for the Digital Technologies Innovation assignment, **Guess the Flag** is presented as a standalone educational technology project.
